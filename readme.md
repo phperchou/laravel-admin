@@ -1,4 +1,4 @@
-## Laravel-Admin 简介
+﻿## Laravel-Admin 简介
 
 Laravel-Admin 是用 laravel + elementUi前端框架前后端分离写成的后台脚手架，自带用户组权限系统。
 
@@ -46,6 +46,6 @@ npm run prod 生产环境打包
 
 ![local.admin.com_.png](https://upload-images.jianshu.io/upload_images/5993750-d6842511602b283e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-## License
+## License撒旦法
 
 This framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
